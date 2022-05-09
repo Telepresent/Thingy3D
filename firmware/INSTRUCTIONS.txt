@@ -1,0 +1,1 @@
+Refer to https://docs.edgeimpulse.com/docs/nordic-semi-thingy91 for instructions on how to flash the firmware.
